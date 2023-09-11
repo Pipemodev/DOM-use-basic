@@ -1,2 +1,2 @@
-const primerTopping = document. querySelector('.topping')
-primerTopping.style.backgroundColor = 'blue'
+const titulo = document.getElementById('titulo')
+titulo.innerText = 'Mis toppings favoritos'
