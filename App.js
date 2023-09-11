@@ -1,2 +1,2 @@
-const toppings = document.getElementsByClassName('topping')
-console.log(toppings)
+const primerTopping = document. querySelector('.topping')
+primerTopping.style.backgroundColor = 'blue'
